@@ -1,7 +1,7 @@
 {
-  "name": "@methodwhite/undici",
-  "version": "7.24.3-secure.1",
-  "description": "Simplified HTTP/1.1 client with enhanced security and SSRF protection - OpenVentus Sovereign Fork",
+  "name": "@methodwhite/request",
+  "version": "2.88.2-secure.2",
+  "description": "Simplified HTTP request client with SSRF protection - OpenVentus Sovereign Fork v2",
   "homepage": "https://undici.nodejs.org",
   "bugs": {
     "url": "https://github.com/nodejs/undici/issues"
