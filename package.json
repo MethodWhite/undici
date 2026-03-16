@@ -105,8 +105,7 @@
     "coverage:report": "cross-env NODE_V8_COVERAGE= c8 report",
     "coverage:report:ci": "c8 report",
     "bench": "echo \"Error: Benchmarks have been moved to '/benchmarks'\" && exit 1",
-    "serve:website": "echo \"Error: Documentation has been moved to '/docs'\" && exit 1",
-    "prepare": "husky && node ./scripts/platform-shell.js"
+    "serve:website": "echo \"Error: Documentation has been moved to '/docs'\" && exit 1"
   },
   "devDependencies": {
     "@fastify/busboy": "3.2.0",
